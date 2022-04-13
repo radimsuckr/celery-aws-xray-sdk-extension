@@ -27,3 +27,9 @@ signals.task_failure.connect(xray_task_failure)
 signals.task_postrun.connect(xray_task_postrun)
 signals.task_prerun.connect(xray_task_prerun)
 ```
+
+## Development
+
+Before making any changes, please prepare your environment (no global changes are made!) with `make setup-dev`. Feel free to check what the target does in the `Makefile`.
+
+This repository uses [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
