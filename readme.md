@@ -1,6 +1,6 @@
 # celery-aws-xray-sdk-extension
 
-[![PyPI version](https://badge.fury.io/py/celery-aws-xray-sdk-extension.svg)](https://pypi.org/project/celery-aws-xray-sdk-extension/)
+[![PyPI version](https://img.shields.io/pypi/v/celery-aws-xray-sdk-extension)](https://pypi.org/project/celery-aws-xray-sdk-extension/) ![PyPI license](https://img.shields.io/pypi/l/celery-aws-xray-sdk-extension)
 
 Celery signal handlers that integrate Celery task lifecycle with AWS X-Ray tracing.
 
